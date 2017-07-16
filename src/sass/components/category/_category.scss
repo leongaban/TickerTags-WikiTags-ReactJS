@@ -1,0 +1,17 @@
+// Category Lists
+@import "./lists";
+
+.category-page {
+	.social-mention-vol { margin-bottom: 20px; }
+	.label-rank { margin: 10px 0 15px; }
+	.label-rank span { padding: 6px 15px; font-size: em(24); }
+	.img-rounded { max-height: 300px !important; max-width: 100%; }
+}
+
+.category-jumbo { background-color: $gray222; color: #fff; }
+
+.category-filters {
+	.well { padding: 10px; }
+}
+
+.entity-row { margin-bottom: 20px; max-height: 300px; }

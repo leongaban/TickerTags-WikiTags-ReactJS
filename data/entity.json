@@ -1,0 +1,1967 @@
+{
+  "relationships": {
+    "deathCause": [
+      {
+        "index": "Lymphoma",
+        "search": "lymphoma",
+        "name": {
+          "value": "Lymphoma"
+        },
+        "url": "/wiki/Lymphoma",
+        "image": {
+          "type": "url",
+          "value": "Lymphoma macro.jpg"
+        },
+        "update": {
+          "epoch": 1495733007
+        },
+        "thumbnail": {
+          "type": "url",
+          "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Lymphoma_macro.jpg?width=440"
+        },
+        "friendly_key": "Death Cause",
+        "imageAttribution": {
+          "type": "url",
+          "value": "https://commons.wikimedia.org/wiki/File:Lymphoma_macro.jpg"
+        },
+        "id": 73172,
+        "description": {
+          "value": "Lymphoma"
+        }
+      }
+    ],
+    "birthPlace": [
+      {
+        "index": "Detroit",
+        "search": "detroit",
+        "name": {
+          "value": "Detroit"
+        },
+        "url": "/wiki/Detroit",
+        "update": {
+          "epoch": 1491251079
+        },
+        "friendly_key": "Birth Place",
+        "id": 11339,
+        "description": {
+          "value": "Detroit"
+        }
+      }
+    ],
+    "module": [
+      {
+        "index": "File:US-O7_insignia.svg",
+        "description": {
+          "value": "File:US-O7 insignia.svg"
+        },
+        "url": "/wiki/File:US-O7_insignia.svg",
+        "update": {
+          "epoch": 1491251079
+        },
+        "friendly_key": "Module",
+        "id": 60383,
+        "name": {
+          "value": "File:US-O7 insignia.svg"
+        }
+      },
+      {
+        "index": "Brigadier_general_(United_States)",
+        "description": {
+          "value": "Brigadier general (United States)"
+        },
+        "url": "/wiki/Brigadier_general_(United_States)",
+        "update": {
+          "epoch": 1491251079
+        },
+        "friendly_key": "Module",
+        "id": 1504,
+        "name": {
+          "value": "Brigadier general (United States)"
+        }
+      },
+      {
+        "index": "Medal_of_Honor",
+        "description": {
+          "value": "Medal of Honor"
+        },
+        "url": "/wiki/Medal_of_Honor",
+        "update": {
+          "epoch": 1491270414
+        },
+        "friendly_key": "Module",
+        "id": 78846,
+        "name": {
+          "value": "Medal of Honor"
+        }
+      },
+      {
+        "index": "Distinguished_Flying_Cross_(United_States)",
+        "description": {
+          "value": "Distinguished Flying Cross (United States)"
+        },
+        "url": "/wiki/Distinguished_Flying_Cross_(United_States)",
+        "update": {
+          "epoch": 1491251079
+        },
+        "friendly_key": "Module",
+        "id": 57210,
+        "name": {
+          "value": "Distinguished Flying Cross (United States)"
+        }
+      }
+    ],
+    "caption": [
+      {
+        "index": "Harris_&_Ewing_photo_studio",
+        "description": {
+          "value": "Harris & Ewing photo studio"
+        },
+        "url": "/wiki/Harris_&_Ewing_photo_studio",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Caption",
+        "id": 262606,
+        "name": {
+          "value": "Harris & Ewing photo studio"
+        }
+      }
+    ],
+    "parents": [
+      {
+        "index": "Charles_August_Lindbergh",
+        "description": {
+          "value": "Charles August Lindbergh"
+        },
+        "url": "/wiki/Charles_August_Lindbergh",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Parents",
+        "id": 262607,
+        "name": {
+          "value": "Charles August Lindbergh"
+        }
+      }
+    ],
+    "deathPlace": [
+      {
+        "index": "Kipahulu,_Hawaii",
+        "description": {
+          "value": "Kipahulu, Hawaii"
+        },
+        "url": "/wiki/Kipahulu,_Hawaii",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Death Place",
+        "id": 262608,
+        "name": {
+          "value": "Kipahulu, Hawaii"
+        }
+      }
+    ],
+    "spouse": [
+      {
+        "index": "Anne_Morrow_Lindbergh",
+        "description": {
+          "value": "Anne Morrow Lindbergh"
+        },
+        "url": "/wiki/Anne_Morrow_Lindbergh",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Spouse",
+        "id": 262609,
+        "name": {
+          "value": "Anne Morrow Lindbergh"
+        }
+      }
+    ],
+    "children": [
+      {
+        "index": "Charles_Augustus_Lindbergh_Jr.",
+        "description": {
+          "value": "Charles Augustus Lindbergh Jr."
+        },
+        "url": "/wiki/Charles_Augustus_Lindbergh_Jr.",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Children",
+        "id": 262610,
+        "name": {
+          "value": "Charles Augustus Lindbergh Jr."
+        }
+      },
+      {
+        "index": "Jon_Lindbergh",
+        "description": {
+          "value": "Jon Lindbergh"
+        },
+        "url": "/wiki/Jon_Lindbergh",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Children",
+        "id": 262611,
+        "name": {
+          "value": "Jon Lindbergh"
+        }
+      },
+      {
+        "index": "Anne_Lindbergh",
+        "description": {
+          "value": "Anne Lindbergh"
+        },
+        "url": "/wiki/Anne_Lindbergh",
+        "update": {
+          "epoch": 1495733007
+        },
+        "friendly_key": "Children",
+        "id": 262612,
+        "name": {
+          "value": "Anne Lindbergh"
+        }
+      }
+    ]
+  },
+  "user": {
+    "id": null,
+    "name": null,
+    "email": null
+  },
+  "title": "Charles Lindbergh - WikiTags",
+  "breadcrumbs": [
+    {
+      "url": "/",
+      "active": false,
+      "name": "Home"
+    },
+    {
+      "url": "/wiki",
+      "active": false,
+      "name": "Categories"
+    },
+    {
+      "url": "/wiki/Category:American_inventors",
+      "active": false,
+      "name": "American inventors"
+    },
+    {
+      "url": "/wiki/Charles_Lindbergh",
+      "active": true,
+      "name": "Charles Lindbergh"
+    }
+  ],
+  "description": "",
+  "category_subjects": [
+    {
+      "index": "Charles_Lindbergh",
+      "search": "charles lindbergh",
+      "name": {
+        "value": "Charles Lindbergh"
+      },
+      "url": "/wiki/Charles_Lindbergh",
+      "image": {
+        "type": "url",
+        "value": "Col Charles Lindbergh.jpg"
+      },
+      "description": {
+        "value": "Charles Lindbergh"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Col_Charles_Lindbergh.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Col_Charles_Lindbergh.jpg"
+      },
+      "id": 262604,
+      "occupation": {
+        "value": " Aviator, author, inventor, explorer, activist\n"
+      }
+    },
+    {
+      "index": "Cyrus_McCormick",
+      "search": "cyrus mccormick",
+      "name": {
+        "value": "Cyrus McCormick"
+      },
+      "url": "/wiki/Cyrus_McCormick",
+      "image": {
+        "type": "url",
+        "value": "Cyrus McCormick engraving.png"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyrus_McCormick_engraving.png?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Cyrus_McCormick_engraving.png"
+      },
+      "id": 248446,
+      "description": {
+        "value": "Cyrus McCormick"
+      }
+    },
+    {
+      "index": "George_Gamow",
+      "search": "george gamow",
+      "name": {
+        "value": "George Gamow"
+      },
+      "url": "/wiki/George_Gamow",
+      "update": {
+        "epoch": 1495733007
+      },
+      "id": 245971,
+      "description": {
+        "value": "George Gamow"
+      }
+    },
+    {
+      "index": "John_Philip_Holland",
+      "search": "john philip holland",
+      "name": {
+        "value": "John Philip Holland"
+      },
+      "url": "/wiki/John_Philip_Holland",
+      "update": {
+        "epoch": 1495733007
+      },
+      "id": 188516,
+      "description": {
+        "value": "John Philip Holland"
+      }
+    },
+    {
+      "index": "National_Inventors_Hall_of_Fame",
+      "search": "national inventors hall of fame",
+      "name": {
+        "value": "National Inventors Hall of Fame"
+      },
+      "url": "/wiki/National_Inventors_Hall_of_Fame",
+      "image": {
+        "type": "url",
+        "value": "Interactive kiosk for inventor information - 1, National Inventors Hall of Fame - USPTO building in Alexandria, Virginia.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Interactive_kiosk_for_inventor_information_-_1,_National_Inventors_Hall_of_Fame_-_USPTO_building_in_Alexandria,_Virginia.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Interactive_kiosk_for_inventor_information_-_1,_National_Inventors_Hall_of_Fame_-_USPTO_building_in_Alexandria,_Virginia.jpg"
+      },
+      "id": 29886,
+      "description": {
+        "value": "National Inventors Hall of Fame"
+      }
+    },
+    {
+      "index": "Jack_Kilby",
+      "search": "jack kilby",
+      "name": {
+        "value": "Jack Kilby"
+      },
+      "url": "/wiki/Jack_Kilby",
+      "image": {
+        "type": "url",
+        "value": "Jack Kilby.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_Kilby.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Jack_Kilby.jpg"
+      },
+      "id": 221265,
+      "description": {
+        "value": "Jack Kilby"
+      }
+    },
+    {
+      "index": "John_Pemberton",
+      "search": "john pemberton",
+      "name": {
+        "value": "John Pemberton"
+      },
+      "url": "/wiki/John_Pemberton",
+      "image": {
+        "type": "url",
+        "value": "John Pemberton.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Pemberton.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:John_Pemberton.jpg"
+      },
+      "id": 220281,
+      "description": {
+        "value": "John Pemberton"
+      }
+    },
+    {
+      "index": "Sergey_Brin",
+      "search": "sergey brin",
+      "name": {
+        "value": "Sergey Brin"
+      },
+      "url": "/wiki/Sergey_Brin",
+      "image": {
+        "type": "url",
+        "value": "Sergey Brin cropped.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Sergey_Brin_cropped.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Sergey_Brin_cropped.jpg"
+      },
+      "id": 212993,
+      "description": {
+        "value": "Sergey Brin"
+      }
+    },
+    {
+      "index": "George_Eastman",
+      "search": "george eastman",
+      "name": {
+        "value": "George Eastman"
+      },
+      "url": "/wiki/George_Eastman",
+      "image": {
+        "type": "url",
+        "value": "GeorgeEastman2.jpg"
+      },
+      "description": {
+        "value": "George Eastman"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/GeorgeEastman2.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:GeorgeEastman2.jpg"
+      },
+      "id": 203525,
+      "occupation": {
+        "value": " Businessman, inventor, philanthropist\n"
+      }
+    },
+    {
+      "index": "Wright_brothers",
+      "search": "wright brothers",
+      "name": {
+        "value": "Wright brothers"
+      },
+      "url": "/wiki/Wright_brothers",
+      "update": {
+        "epoch": 1495733007
+      },
+      "id": 206142,
+      "description": {
+        "value": "Wright brothers"
+      }
+    },
+    {
+      "index": "George_Westinghouse",
+      "search": "george westinghouse",
+      "name": {
+        "value": "George Westinghouse"
+      },
+      "url": "/wiki/George_Westinghouse",
+      "image": {
+        "type": "url",
+        "value": "George Westinghouse.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Westinghouse.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:George_Westinghouse.jpg"
+      },
+      "id": 180573,
+      "description": {
+        "value": "George Westinghouse"
+      }
+    },
+    {
+      "index": "Thomas_Jefferson",
+      "search": "thomas jefferson",
+      "name": {
+        "value": "Thomas Jefferson"
+      },
+      "url": "/wiki/Thomas_Jefferson",
+      "image": {
+        "type": "url",
+        "value": "Official Presidential portrait of Thomas Jefferson (by Rembrandt Peale, 1800).jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg"
+      },
+      "id": 20593,
+      "description": {
+        "value": "Thomas Jefferson"
+      }
+    },
+    {
+      "index": "Thomas_Edison",
+      "search": "thomas edison",
+      "name": {
+        "value": "Thomas Edison"
+      },
+      "url": "/wiki/Thomas_Edison",
+      "image": {
+        "type": "url",
+        "value": "Thomas Edison2.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Edison2.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg"
+      },
+      "id": 61025,
+      "description": {
+        "value": "Thomas Edison"
+      }
+    },
+    {
+      "index": "George_Pullman",
+      "search": "george pullman",
+      "name": {
+        "value": "George Pullman"
+      },
+      "url": "/wiki/George_Pullman",
+      "image": {
+        "type": "url",
+        "value": "Gpullman.jpg"
+      },
+      "description": {
+        "value": "George Pullman"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Gpullman.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Gpullman.jpg"
+      },
+      "id": 160174,
+      "occupation": {
+        "value": " Engineer/Industrialist\n"
+      }
+    },
+    {
+      "index": "Steve_Wozniak",
+      "search": "steve wozniak",
+      "name": {
+        "value": "Steve Wozniak"
+      },
+      "url": "/wiki/Steve_Wozniak",
+      "image": {
+        "type": "url",
+        "value": "Steve Wozniak.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Wozniak.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Steve_Wozniak.jpg"
+      },
+      "id": 2651,
+      "description": {
+        "value": "Steve Wozniak"
+      }
+    },
+    {
+      "index": "Philo_Farnsworth",
+      "search": "philo farnsworth",
+      "name": {
+        "value": "Philo Farnsworth"
+      },
+      "url": "/wiki/Philo_Farnsworth",
+      "image": {
+        "type": "url",
+        "value": "Philo T Farnsworth.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Philo_T_Farnsworth.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Philo_T_Farnsworth.jpg"
+      },
+      "id": 154551,
+      "description": {
+        "value": "Philo Farnsworth"
+      }
+    },
+    {
+      "index": "Samuel_Morse",
+      "search": "samuel morse",
+      "name": {
+        "value": "Samuel Morse"
+      },
+      "url": "/wiki/Samuel_Morse",
+      "image": {
+        "type": "url",
+        "value": "Samuel Morse 1840.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Morse_1840.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Samuel_Morse_1840.jpg"
+      },
+      "id": 152396,
+      "description": {
+        "value": "Samuel Morse"
+      }
+    },
+    {
+      "index": "Ron_Popeil",
+      "search": "ron popeil",
+      "name": {
+        "value": "Ron Popeil"
+      },
+      "url": "/wiki/Ron_Popeil",
+      "update": {
+        "epoch": 1491251079
+      },
+      "id": 146801,
+      "description": {
+        "value": "Ron Popeil"
+      }
+    },
+    {
+      "index": "Robert_Fulton",
+      "search": "robert fulton",
+      "name": {
+        "value": "Robert Fulton"
+      },
+      "url": "/wiki/Robert_Fulton",
+      "image": {
+        "type": "url",
+        "value": "Fulton.jpg"
+      },
+      "description": {
+        "value": "Robert Fulton"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Fulton.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Fulton.jpg"
+      },
+      "id": 146683,
+      "occupation": {
+        "value": " Engineer, Inventor\n"
+      }
+    },
+    {
+      "index": "Ralph_Merkle",
+      "search": "ralph merkle",
+      "name": {
+        "value": "Ralph Merkle"
+      },
+      "url": "/wiki/Ralph_Merkle",
+      "image": {
+        "type": "url",
+        "value": "Ralph Merkle.png"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Ralph_Merkle.png?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Ralph_Merkle.png"
+      },
+      "id": 144753,
+      "description": {
+        "value": "Ralph Merkle"
+      }
+    },
+    {
+      "index": "Robert_Noyce",
+      "search": "robert noyce",
+      "name": {
+        "value": "Robert Noyce"
+      },
+      "url": "/wiki/Robert_Noyce",
+      "update": {
+        "epoch": 1491251079
+      },
+      "id": 68846,
+      "description": {
+        "value": "Robert Noyce"
+      }
+    },
+    {
+      "index": "Murray_Leinster",
+      "search": "murray leinster",
+      "name": {
+        "value": "Murray Leinster"
+      },
+      "url": "/wiki/Murray_Leinster",
+      "image": {
+        "type": "url",
+        "value": "Murray Leinster.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Murray_Leinster.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Murray_Leinster.jpg"
+      },
+      "id": 139818,
+      "description": {
+        "value": "Murray Leinster"
+      }
+    },
+    {
+      "index": "Paul_Allen",
+      "search": "paul allen",
+      "name": {
+        "value": "Paul Allen"
+      },
+      "url": "/wiki/Paul_Allen",
+      "image": {
+        "type": "url",
+        "value": "Paul G. Allen.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_G._Allen.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Paul_G._Allen.jpg"
+      },
+      "id": 98953,
+      "description": {
+        "value": "Paul Allen"
+      }
+    },
+    {
+      "index": "Edward_Teller",
+      "search": "edward teller",
+      "name": {
+        "value": "Edward Teller"
+      },
+      "url": "/wiki/Edward_Teller",
+      "image": {
+        "type": "url",
+        "value": "EdwardTeller1958 fewer smudges.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/EdwardTeller1958_fewer_smudges.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:EdwardTeller1958_fewer_smudges.jpg"
+      },
+      "id": 100157,
+      "description": {
+        "value": "Edward Teller"
+      }
+    },
+    {
+      "index": "Nikola_Tesla",
+      "search": "nikola tesla",
+      "name": {
+        "value": "Nikola Tesla"
+      },
+      "url": "/wiki/Nikola_Tesla",
+      "image": {
+        "type": "url",
+        "value": "N.Tesla.JPG"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/N.Tesla.JPG?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:N.Tesla.JPG"
+      },
+      "id": 117395,
+      "description": {
+        "value": "Nikola Tesla"
+      }
+    },
+    {
+      "index": "William_Seward_Burroughs_I",
+      "search": "william seward burroughs i",
+      "name": {
+        "value": "William Seward Burroughs I"
+      },
+      "url": "/wiki/William_Seward_Burroughs_I",
+      "update": {
+        "epoch": 1495733007
+      },
+      "id": 24096,
+      "description": {
+        "value": "William Seward Burroughs I"
+      }
+    },
+    {
+      "index": "Walter_Houser_Brattain",
+      "search": "walter houser brattain",
+      "name": {
+        "value": "Walter Houser Brattain"
+      },
+      "url": "/wiki/Walter_Houser_Brattain",
+      "image": {
+        "type": "url",
+        "value": "Brattain.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Brattain.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Brattain.jpg"
+      },
+      "id": 100279,
+      "description": {
+        "value": "Walter Houser Brattain"
+      }
+    },
+    {
+      "index": "William_Shockley",
+      "search": "william shockley",
+      "name": {
+        "value": "William Shockley"
+      },
+      "url": "/wiki/William_Shockley",
+      "image": {
+        "type": "url",
+        "value": "William Shockley, Stanford University.jpg"
+      },
+      "update": {
+        "epoch": 1495733007
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Shockley,_Stanford_University.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:William_Shockley,_Stanford_University.jpg"
+      },
+      "id": 100239,
+      "description": {
+        "value": "William Shockley"
+      }
+    },
+    {
+      "index": "Howard_Hughes",
+      "search": "howard hughes",
+      "name": {
+        "value": "Howard Hughes"
+      },
+      "url": "/wiki/Howard_Hughes",
+      "image": {
+        "type": "url",
+        "value": "Howard Hughes 1938.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Howard_Hughes_1938.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Howard_Hughes_1938.jpg"
+      },
+      "id": 66745,
+      "description": {
+        "value": "Howard Hughes"
+      }
+    },
+    {
+      "index": "Herman_Hollerith",
+      "search": "herman hollerith",
+      "name": {
+        "value": "Herman Hollerith"
+      },
+      "url": "/wiki/Herman_Hollerith",
+      "image": {
+        "type": "url",
+        "value": "Hollerith.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollerith.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Hollerith.jpg"
+      },
+      "id": 66368,
+      "description": {
+        "value": "Herman Hollerith"
+      }
+    },
+    {
+      "index": "Henry_J._Heinz",
+      "search": "henry j. heinz",
+      "name": {
+        "value": "Henry J. Heinz"
+      },
+      "url": "/wiki/Henry_J._Heinz",
+      "image": {
+        "type": "url",
+        "value": "Henry John Heinz in 1917.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_John_Heinz_in_1917.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Henry_John_Heinz_in_1917.jpg"
+      },
+      "id": 65893,
+      "description": {
+        "value": "Henry J. Heinz"
+      }
+    },
+    {
+      "index": "Henry_Ford",
+      "search": "henry ford",
+      "name": {
+        "value": "Henry Ford"
+      },
+      "url": "/wiki/Henry_Ford",
+      "image": {
+        "type": "url",
+        "value": "Henry ford 1919.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_ford_1919.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Henry_ford_1919.jpg"
+      },
+      "id": 63602,
+      "description": {
+        "value": "Henry Ford"
+      }
+    },
+    {
+      "index": "Edwin_Howard_Armstrong",
+      "search": "edwin howard armstrong",
+      "name": {
+        "value": "Edwin Howard Armstrong"
+      },
+      "url": "/wiki/Edwin_Howard_Armstrong",
+      "image": {
+        "type": "url",
+        "value": "EdwinHowardArmstrong.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/EdwinHowardArmstrong.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:EdwinHowardArmstrong.jpg"
+      },
+      "id": 50665,
+      "description": {
+        "value": "Edwin Howard Armstrong"
+      }
+    },
+    {
+      "index": "Eli_Whitney",
+      "search": "eli whitney",
+      "name": {
+        "value": "Eli Whitney"
+      },
+      "url": "/wiki/Eli_Whitney",
+      "image": {
+        "type": "url",
+        "value": "Eli Whitney by Samuel Finley Breese Morse 1822.jpeg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli_Whitney_by_Samuel_Finley_Breese_Morse_1822.jpeg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Eli_Whitney_by_Samuel_Finley_Breese_Morse_1822.jpeg"
+      },
+      "id": 47801,
+      "description": {
+        "value": "Eli Whitney"
+      }
+    },
+    {
+      "index": "Dean_Kamen",
+      "search": "dean kamen",
+      "name": {
+        "value": "Dean Kamen"
+      },
+      "url": "/wiki/Dean_Kamen",
+      "image": {
+        "type": "url",
+        "value": "Dean kamen.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Dean_kamen.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Dean_kamen.jpg"
+      },
+      "id": 45280,
+      "description": {
+        "value": "Dean Kamen"
+      }
+    },
+    {
+      "index": "Douglas_Engelbart",
+      "search": "douglas engelbart",
+      "name": {
+        "value": "Douglas Engelbart"
+      },
+      "url": "/wiki/Douglas_Engelbart",
+      "image": {
+        "type": "url",
+        "value": "Douglas Engelbart in 2008.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Douglas_Engelbart_in_2008.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Douglas_Engelbart_in_2008.jpg"
+      },
+      "id": 40097,
+      "description": {
+        "value": "Douglas Engelbart"
+      }
+    },
+    {
+      "index": "Charles_Proteus_Steinmetz",
+      "search": "charles proteus steinmetz",
+      "name": {
+        "value": "Charles Proteus Steinmetz"
+      },
+      "url": "/wiki/Charles_Proteus_Steinmetz",
+      "image": {
+        "type": "url",
+        "value": "charlesproteussteinmetz.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/charlesproteussteinmetz.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:charlesproteussteinmetz.jpg"
+      },
+      "id": 33171,
+      "description": {
+        "value": "Charles Proteus Steinmetz"
+      }
+    },
+    {
+      "index": "B._F._Skinner",
+      "search": "b. f. skinner",
+      "name": {
+        "value": "B. F. Skinner"
+      },
+      "url": "/wiki/B._F._Skinner",
+      "image": {
+        "type": "url",
+        "value": "B.F._Skinner_at_Harvard_circa_1950.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/B.F._Skinner_at_Harvard_circa_1950.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:B.F._Skinner_at_Harvard_circa_1950.jpg"
+      },
+      "id": 26266,
+      "description": {
+        "value": "B. F. Skinner"
+      }
+    },
+    {
+      "index": "Buckminster_Fuller",
+      "search": "buckminster fuller",
+      "name": {
+        "value": "Buckminster Fuller"
+      },
+      "url": "/wiki/Buckminster_Fuller",
+      "image": {
+        "type": "url",
+        "value": "BuckminsterFuller1.jpg"
+      },
+      "description": {
+        "value": "Buckminster Fuller"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/BuckminsterFuller1.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:BuckminsterFuller1.jpg"
+      },
+      "id": 21111,
+      "occupation": {
+        "value": " Designer, author, inventor\n"
+      }
+    },
+    {
+      "index": "Benjamin_Franklin",
+      "search": "benjamin franklin",
+      "name": {
+        "value": "Benjamin Franklin"
+      },
+      "url": "/wiki/Benjamin_Franklin",
+      "image": {
+        "type": "url",
+        "value": "BenFranklinDuplessis.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/BenFranklinDuplessis.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:BenFranklinDuplessis.jpg"
+      },
+      "id": 20569,
+      "description": {
+        "value": "Benjamin Franklin"
+      }
+    },
+    {
+      "index": "Bill_Gates",
+      "search": "bill gates",
+      "name": {
+        "value": "Bill Gates"
+      },
+      "url": "/wiki/Bill_Gates",
+      "image": {
+        "type": "url",
+        "value": "Bill Gates June 2015.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Gates_June_2015.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Bill_Gates_June_2015.jpg"
+      },
+      "id": 19432,
+      "description": {
+        "value": "Bill Gates"
+      }
+    },
+    {
+      "index": "Alexander_Graham_Bell",
+      "search": "alexander graham bell",
+      "name": {
+        "value": "Alexander Graham Bell"
+      },
+      "url": "/wiki/Alexander_Graham_Bell",
+      "image": {
+        "type": "url",
+        "value": "Alexander Graham Bell.jpg"
+      },
+      "description": {
+        "value": "Alexander Graham Bell"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Graham_Bell.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Alexander_Graham_Bell.jpg"
+      },
+      "id": 2511,
+      "occupation": {
+        "type": "string",
+        "value": "Inventor, Scientist"
+      }
+    },
+    {
+      "index": "Albert_Einstein",
+      "search": "albert einstein",
+      "name": {
+        "value": "Albert Einstein"
+      },
+      "url": "/wiki/Albert_Einstein",
+      "image": {
+        "type": "url",
+        "value": "Einstein 1921 by F Schmutzer - restoration.jpg"
+      },
+      "update": {
+        "epoch": 1491251079
+      },
+      "thumbnail": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein_1921_by_F_Schmutzer_-_restoration.jpg?width=440"
+      },
+      "imageAttribution": {
+        "type": "url",
+        "value": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+      },
+      "id": 1295,
+      "description": {
+        "value": "Albert Einstein"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "object": {
+        "url": "/wiki/Category:United_States_airmail_pilots",
+        "index": "Category:United_States_airmail_pilots",
+        "description": {
+          "value": "United States airmail pilots"
+        },
+        "id": 262622,
+        "name": {
+          "value": "United States airmail pilots"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Explorers_of_the_United_States",
+        "index": "Category:Explorers_of_the_United_States",
+        "description": {
+          "value": "Explorers of the United States"
+        },
+        "id": 64988,
+        "name": {
+          "value": "Explorers of the United States"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Freemen_of_the_City_of_London",
+        "index": "Category:Freemen_of_the_City_of_London",
+        "description": {
+          "value": "Freemen of the City of London"
+        },
+        "id": 19464,
+        "name": {
+          "value": "Freemen of the City of London"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_Odd_Fellows",
+        "index": "Category:American_Odd_Fellows",
+        "description": {
+          "value": "American Odd Fellows"
+        },
+        "id": 12437,
+        "name": {
+          "value": "American Odd Fellows"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Racism_in_the_United_States",
+        "index": "Category:Racism_in_the_United_States",
+        "description": {
+          "value": "Racism in the United States"
+        },
+        "id": 100625,
+        "name": {
+          "value": "Racism in the United States"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:20th-century_American_writers",
+        "index": "Category:20th-century_American_writers",
+        "description": {
+          "value": "20th-century American writers"
+        },
+        "id": 1627,
+        "name": {
+          "value": "20th-century American writers"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Transatlantic_flight",
+        "index": "Category:Transatlantic_flight",
+        "description": {
+          "value": "Transatlantic flight"
+        },
+        "id": 262621,
+        "name": {
+          "value": "Transatlantic flight"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_anti-war_activists",
+        "index": "Category:American_anti-war_activists",
+        "description": {
+          "value": "American anti-war activists"
+        },
+        "id": 38149,
+        "name": {
+          "value": "American anti-war activists"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Aviators_from_Washington,_D.C.",
+        "index": "Category:Aviators_from_Washington,_D.C.",
+        "description": {
+          "value": "Aviators from Washington, D.C."
+        },
+        "id": 262620,
+        "name": {
+          "value": "Aviators from Washington, D.C."
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Charles_Lindbergh",
+        "index": "Category:Charles_Lindbergh",
+        "description": {
+          "value": "Charles Lindbergh"
+        },
+        "id": 262613,
+        "name": {
+          "value": "Charles Lindbergh"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:1902_births",
+        "index": "Category:1902_births",
+        "description": {
+          "value": "1902 births"
+        },
+        "id": 37901,
+        "name": {
+          "value": "1902 births"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:1974_deaths",
+        "index": "Category:1974_deaths",
+        "description": {
+          "value": "1974 deaths"
+        },
+        "id": 12269,
+        "name": {
+          "value": "1974 deaths"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:People_from_Little_Falls,_Minnesota",
+        "index": "Category:People_from_Little_Falls,_Minnesota",
+        "description": {
+          "value": "People from Little Falls, Minnesota"
+        },
+        "id": 92247,
+        "name": {
+          "value": "People from Little Falls, Minnesota"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Aviators_from_Michigan",
+        "index": "Category:Aviators_from_Michigan",
+        "description": {
+          "value": "Aviators from Michigan"
+        },
+        "id": 117315,
+        "name": {
+          "value": "Aviators from Michigan"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:1927_in_aviation",
+        "index": "Category:1927_in_aviation",
+        "description": {
+          "value": "1927 in aviation"
+        },
+        "id": 262614,
+        "name": {
+          "value": "1927 in aviation"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:University_of_Wisconsin\u2013Madison_College_of_Engineering_alumni",
+        "index": "Category:University_of_Wisconsin\u2013Madison_College_of_Engineering_alumni",
+        "description": {
+          "value": "University of Wisconsin\u2013Madison College of Engineering alumni"
+        },
+        "id": 72645,
+        "name": {
+          "value": "University of Wisconsin\u2013Madison College of Engineering alumni"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_anti-communists",
+        "index": "Category:American_anti-communists",
+        "description": {
+          "value": "American anti-communists"
+        },
+        "id": 426,
+        "name": {
+          "value": "American anti-communists"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_aviators",
+        "index": "Category:American_aviators",
+        "description": {
+          "value": "American aviators"
+        },
+        "id": 44780,
+        "name": {
+          "value": "American aviators"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_inventors",
+        "index": "Category:American_inventors",
+        "description": {
+          "value": "American inventors"
+        },
+        "id": 1633,
+        "name": {
+          "value": "American inventors"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Anti\u2013World_War_II_activists",
+        "index": "Category:Anti\u2013World_War_II_activists",
+        "description": {
+          "value": "Anti\u2013World War II activists"
+        },
+        "id": 101982,
+        "name": {
+          "value": "Anti\u2013World War II activists"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Aviation_history_of_the_United_States",
+        "index": "Category:Aviation_history_of_the_United_States",
+        "description": {
+          "value": "Aviation history of the United States"
+        },
+        "id": 32084,
+        "name": {
+          "value": "Aviation history of the United States"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Aviation_pioneers",
+        "index": "Category:Aviation_pioneers",
+        "description": {
+          "value": "Aviation pioneers"
+        },
+        "id": 2552,
+        "name": {
+          "value": "Aviation pioneers"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Deaths_from_lymphoma",
+        "index": "Category:Deaths_from_lymphoma",
+        "description": {
+          "value": "Deaths from lymphoma"
+        },
+        "id": 64674,
+        "name": {
+          "value": "Deaths from lymphoma"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:United_States_Army_Medal_of_Honor_recipients",
+        "index": "Category:United_States_Army_Medal_of_Honor_recipients",
+        "description": {
+          "value": "United States Army Medal of Honor recipients"
+        },
+        "id": 78906,
+        "name": {
+          "value": "United States Army Medal of Honor recipients"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Congressional_Gold_Medal_recipients",
+        "index": "Category:Congressional_Gold_Medal_recipients",
+        "description": {
+          "value": "Congressional Gold Medal recipients"
+        },
+        "id": 7522,
+        "name": {
+          "value": "Congressional Gold Medal recipients"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:L\u00e9gion_d'honneur_recipients",
+        "index": "Category:L\u00e9gion_d'honneur_recipients",
+        "description": {
+          "value": "L\u00e9gion d'honneur recipients"
+        },
+        "id": 2857,
+        "name": {
+          "value": "L\u00e9gion d'honneur recipients"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Pulitzer_Prize_for_Biography_or_Autobiography_winners",
+        "index": "Category:Pulitzer_Prize_for_Biography_or_Autobiography_winners",
+        "description": {
+          "value": "Pulitzer Prize for Biography or Autobiography winners"
+        },
+        "id": 262615,
+        "name": {
+          "value": "Pulitzer Prize for Biography or Autobiography winners"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Recipients_of_the_Distinguished_Flying_Cross_(United_States)",
+        "index": "Category:Recipients_of_the_Distinguished_Flying_Cross_(United_States)",
+        "description": {
+          "value": "Recipients of the Distinguished Flying Cross (United States)"
+        },
+        "id": 32090,
+        "name": {
+          "value": "Recipients of the Distinguished Flying Cross (United States)"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Recipients_of_the_Air_Force_Cross_(United_Kingdom)",
+        "index": "Category:Recipients_of_the_Air_Force_Cross_(United_Kingdom)",
+        "description": {
+          "value": "Recipients of the Air Force Cross (United Kingdom)"
+        },
+        "id": 262616,
+        "name": {
+          "value": "Recipients of the Air Force Cross (United Kingdom)"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Non-combat_recipients_of_the_Medal_of_Honor",
+        "index": "Category:Non-combat_recipients_of_the_Medal_of_Honor",
+        "description": {
+          "value": "Non-combat recipients of the Medal of Honor"
+        },
+        "id": 262617,
+        "name": {
+          "value": "Non-combat recipients of the Medal of Honor"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Sidwell_Friends_School_alumni",
+        "index": "Category:Sidwell_Friends_School_alumni",
+        "description": {
+          "value": "Sidwell Friends School alumni"
+        },
+        "id": 216827,
+        "name": {
+          "value": "Sidwell Friends School alumni"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_people_of_Swedish_descent",
+        "index": "Category:American_people_of_Swedish_descent",
+        "description": {
+          "value": "American people of Swedish descent"
+        },
+        "id": 38364,
+        "name": {
+          "value": "American people of Swedish descent"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:United_States_Air_Force_officers",
+        "index": "Category:United_States_Air_Force_officers",
+        "description": {
+          "value": "United States Air Force officers"
+        },
+        "id": 33232,
+        "name": {
+          "value": "United States Air Force officers"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Deaths_from_cancer_in_Hawaii",
+        "index": "Category:Deaths_from_cancer_in_Hawaii",
+        "description": {
+          "value": "Deaths from cancer in Hawaii"
+        },
+        "id": 76046,
+        "name": {
+          "value": "Deaths from cancer in Hawaii"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_male_writers",
+        "index": "Category:American_male_writers",
+        "description": {
+          "value": "American male writers"
+        },
+        "id": 2819,
+        "name": {
+          "value": "American male writers"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Old_Right_(United_States)",
+        "index": "Category:Old_Right_(United_States)",
+        "description": {
+          "value": "Old Right (United States)"
+        },
+        "id": 32213,
+        "name": {
+          "value": "Old Right (United States)"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_World_War_II_pilots",
+        "index": "Category:American_World_War_II_pilots",
+        "description": {
+          "value": "American World War II pilots"
+        },
+        "id": 262618,
+        "name": {
+          "value": "American World War II pilots"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:United_States_Army_Air_Forces_officers",
+        "index": "Category:United_States_Army_Air_Forces_officers",
+        "description": {
+          "value": "United States Army Air Forces officers"
+        },
+        "id": 25825,
+        "name": {
+          "value": "United States Army Air Forces officers"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:American_military_personnel_who_served_in_the_Pacific_theatre_of_World_War_II",
+        "index": "Category:American_military_personnel_who_served_in_the_Pacific_theatre_of_World_War_II",
+        "description": {
+          "value": "American military personnel who served in the Pacific theatre of World War II"
+        },
+        "id": 142287,
+        "name": {
+          "value": "American military personnel who served in the Pacific theatre of World War II"
+        }
+      },
+      "relationship": "Category"
+    },
+    {
+      "object": {
+        "url": "/wiki/Category:Lindbergh_family",
+        "index": "Category:Lindbergh_family",
+        "description": {
+          "value": "Lindbergh family"
+        },
+        "id": 262619,
+        "name": {
+          "value": "Lindbergh family"
+        }
+      },
+      "relationship": "Category"
+    }
+  ],
+  "subject": {
+    "index": "Charles_Lindbergh",
+    "search": "charles lindbergh",
+    "name": {
+      "friendly_key": "Name",
+      "value": "Charles Lindbergh"
+    },
+    "url": "/wiki/Charles_Lindbergh",
+    "image": {
+      "friendly_key": "Image",
+      "type": "url",
+      "value": "Col Charles Lindbergh.jpg"
+    },
+    "description": {
+      "friendly_key": "Description",
+      "value": "Charles Lindbergh"
+    },
+    "update": {
+      "friendly_key": "Update",
+      "epoch": 1495733007
+    },
+    "thumbnail": {
+      "friendly_key": "Thumbnail",
+      "type": "url",
+      "value": "https://commons.wikimedia.org/wiki/Special:FilePath/Col_Charles_Lindbergh.jpg?width=440"
+    },
+    "imageAttribution": {
+      "friendly_key": "Image Attribution",
+      "type": "url",
+      "value": "https://commons.wikimedia.org/wiki/File:Col_Charles_Lindbergh.jpg"
+    },
+    "id": 262604,
+    "occupation": {
+      "friendly_key": "Occupation",
+      "value": " Aviator, author, inventor, explorer, activist\n"
+    }
+  }
+}

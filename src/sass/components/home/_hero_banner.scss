@@ -1,0 +1,12 @@
+.hero-banner {
+	margin: 0 10px 10px 10px;
+	padding: 40px 30px 34px 30px;
+	background-color:#0e0e0e;
+	// background:linear-gradient(rgba(50,50,50,.1), rgba(0,0,0,.8)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/450px-Google_2015_logo.svg.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center 30%;
+	color: rgb(255,255,255);
+
+	h2 { font-size: em(30); }
+}

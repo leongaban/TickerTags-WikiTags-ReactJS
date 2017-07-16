@@ -1,0 +1,44 @@
+.categories-list { margin-top: 15px; margin-bottom: 40px; }
+
+.card-title-pic {
+	margin: 0px;
+	padding: 40px 30px !important;
+	min-height: 165px;
+	color: rgb(255,255,255);
+	background-color: #0e0e0e;
+	background: linear-gradient(rgba(50,50,50,.1), rgba(0,0,0,.8));
+	// background: linear-gradient(rgba(50,50,50,.1), rgba(0,0,0,.8)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/United_Airlines_Boeing_777-200_Meulemans.jpg/440px-United_Airlines_Boeing_777-200_Meulemans.jpg');
+	background-size: cover;
+	background-position: center 30%;
+	text-decoration: none !important;
+
+	h3, h6 { color: white; }
+	h3 { margin-top: 0; font-size: em(20); font-weight: bold; line-height: 24px; }
+	h6 { font-size: em(14); }
+
+	a {
+		text-decoration: none !important;
+		&:hover { text-decoration: none !important; }
+	}
+}
+
+.chip {
+	padding: 7px 10px !important;
+    font-size: 1em !important;
+}
+
+.chip.label-warning {
+	&:hover { background: darken(#f0ad4e, 10%); }
+}
+
+.chip.label-primary {
+	&:hover { background: darken(#337ab7, 10%); }
+}
+
+.chip.label-danger {
+	&:hover { background: darken(#d9534f, 10%); }
+}
+
+.chip.label-info {
+	&:hover { background: darken(#5bc0de, 10%); }
+}

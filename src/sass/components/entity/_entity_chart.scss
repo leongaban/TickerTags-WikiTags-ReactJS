@@ -1,0 +1,13 @@
+#chart-div {
+	position: relative;
+	width: 100%;
+	min-height: 350px;
+
+	.ltr {
+		position: relative; width: 750px; height: 350px;
+	}
+
+	.aria-label {
+		position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;
+	}
+}

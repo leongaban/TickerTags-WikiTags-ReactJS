@@ -1,0 +1,18 @@
+# Folders
+bower_components/
+dist/
+node_modules/
+/view/node_modules/
+/view/.serverless/
+.webpack
+.idea
+.serverless/
+
+
+# Files
+.DS_Store
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+*.manifest
+*.spec

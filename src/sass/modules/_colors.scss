@@ -1,0 +1,27 @@
+/* Colors module
+============================================================
+========================================================= */
+
+// Primary
+$blue:    #337ab7;
+$cyan:    #5bc0de;
+$green:   #5cb85c;
+$red: 	  #d9534f;
+$orange:  #FC913A;
+$gray:	  #454545;
+$gray222: #222;
+$gray777: #777;
+
+// Brands
+// $facebook: #438acb;
+// $twitter:  #5cbde9;
+
+// Elements
+$body: #fff;
+
+.link {
+	float: left;
+	font-size: em(14);
+	color: $blue;
+	&:hover { text-decoration: underline; }
+}

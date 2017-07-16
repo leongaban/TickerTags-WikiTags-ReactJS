@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[object Object] 1`] = `
+<div
+  className="trends-component"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <Header />
+      <h2>
+        Trends 
+        <small>
+          compare social volumes of up to three terms
+        </small>
+      </h2>
+      <div
+        className="form-inline"
+      >
+        <form
+          onSubmit={[Function]}
+        >
+          <label
+            className="sr-only"
+            htmlFor="inlineFormInput"
+          >
+            Term 1
+          </label>
+          <input
+            className="form-control mb-2 mr-sm-2 mb-sm-0"
+            id="inlineFormInput"
+            placeholder="Term 1"
+            type="text"
+          />
+          <label
+            className="sr-only"
+            htmlFor="inlineFormInput"
+          >
+            Term 2
+          </label>
+          <input
+            className="form-control mb-2 mr-sm-2 mb-sm-0"
+            id="inlineFormInput"
+            placeholder="Term 2"
+            type="text"
+          />
+          <label
+            className="sr-only"
+            htmlFor="inlineFormInput"
+          >
+            Term 3
+          </label>
+          <input
+            className="form-control mb-2 mr-sm-2 mb-sm-0"
+            id="inlineFormInput"
+            placeholder="Term 3"
+            type="text"
+          />
+          <button
+            className="btn btn-primary"
+            onClick={[Function]}
+            type="submit"
+          >
+            Submit
+          </button>
+        </form>
+      </div>
+      <div
+        className="btn-group"
+        role="group"
+      >
+        <button
+          className="btn btn-default"
+          id="chart_select_90"
+          onClick={[Function]}
+          type="button"
+        >
+          90 Days
+        </button>
+        <button
+          className="btn btn-default"
+          id="chart_select_60"
+          onClick={[Function]}
+          type="button"
+        >
+          60 Days
+        </button>
+        <button
+          className="btn btn-default active"
+          id="chart_select_30"
+          onClick={[Function]}
+          type="button"
+        >
+          30 Days
+        </button>
+      </div>
+      <Chart
+        subject={
+          Object {
+            "id": 0,
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;

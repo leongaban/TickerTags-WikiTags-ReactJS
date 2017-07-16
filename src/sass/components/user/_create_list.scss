@@ -1,0 +1,29 @@
+.create-list-page {
+	h3 { margin-bottom: 20px; font-size: em(24); color: black; }
+	.alert {
+		line-height: 20px;
+		p { font-size: em(14); }
+	}
+	.input-lg { margin: 0 0 10px; padding: 10px; width: 100%; border: 1px solid #ccc; }
+	.fa-lock { margin: 2px 6px 0 0; }
+	.modifier-details {
+		margin-left: 20px;
+		li { margin: 10px 0; list-style: disc; }
+	}
+	.highlight-tags { background-color: #fffee7; }
+}
+
+.highlight-tags {
+	small { font-size: em(14); color: rgb(183,183,183); }
+}
+
+.input-list-name { margin: 0 0 10px; padding: 10px; width: 100%; }
+
+// TagModifiers
+.tag-row { margin: 1px 0; padding: 10px; background: white; }
+
+#step_3_modifier_2 {
+	position: relative; z-index: 2;
+	.input-group { margin-bottom: -1px; }
+	input { padding: 10px; width: 100%; }
+}
